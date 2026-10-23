@@ -1,0 +1,2 @@
+# pictionary-link-matrix uses only the Python standard library
+# (argparse, json, random, re) — no third-party dependencies.
